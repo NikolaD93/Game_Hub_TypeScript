@@ -11,4 +11,4 @@ User is able to:
 * Search for a game in the search field
 * Toggle light/dark mode
 
-[Live Website Preview](https://game-hub-three-zeta.vercel.app)
+## [Live Website Preview](https://game-hub-three-zeta.vercel.app)
