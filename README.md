@@ -12,3 +12,5 @@ User is able to:
 * Toggle light/dark mode
 
 ## [Live Website Preview](https://game-hub-three-zeta.vercel.app)
+
+![Game-Hub-full](https://user-images.githubusercontent.com/95870159/228799661-bdc9d536-56bc-4fad-a0f0-6be2c0606cf6.png)
